@@ -24,9 +24,6 @@ class LoginScreen extends StatelessWidget {
                 color: const Color(0XFF000000),
                 fontWeight: FontWeight.bold,
                 fontSize: 25),
-            const SizedBox(
-              height: 20,
-            ),
             Card(
               elevation: 3,
               shape: RoundedRectangleBorder(
